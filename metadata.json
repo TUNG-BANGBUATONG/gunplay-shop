@@ -1,0 +1,6 @@
+{
+  "name": "Gunpla Sales App",
+  "description": "A beautiful interactive mobile-framed Gunpla store application featuring full searching, active filtering, product creation with local persistence, category organization, and styled with simulated mobile layout components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
